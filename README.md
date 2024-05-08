@@ -6,6 +6,6 @@ Además de mi interés por la codificación, me fascina el ecosistema dinámico 
 
 Con conocimientos en las siguientes tecnologías:
 
-![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) ![Tailwind CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg){width=40px height=40px} ![SASS](https://img.icons8.com/color/48/000000/sass.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![React](https://img.icons8.com/color/48/000000/react-native.png) ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
+![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) ![Tailwind CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg) ![SASS](https://img.icons8.com/color/48/000000/sass.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![React](https://img.icons8.com/color/48/000000/react-native.png) ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
 
 Saludos cordiales!
