@@ -6,16 +6,14 @@ Además de mi interés por la codificación, me fascina el ecosistema dinámico 
 
 Con conocimientos en las siguientes tecnologías:
 
-<p float="left">
-    HTML <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" style="margin-right: 10px;">
-    CSS <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" style="margin-right: 10px;">
-    Bootstrap <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" style="margin-right: 10px;">
-    Tailwind CSS <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" style="margin-right: 10px;">
-    SASS <img src="https://img.icons8.com/color/48/000000/sass.png" alt="SASS" style="margin-right: 10px;">
-    JavaScript <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style="margin-right: 10px;">
-    React <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" style="margin-right: 10px;">
-    TypeScript <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" style="margin-right: 10px;">
-</p>
+- HTML <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" style="margin-right: 10px;">
+- CSS <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" style="margin-right: 10px;">
+- Bootstrap <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" style="margin-right: 10px;">
+- Tailwind CSS <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" style="margin-right: 10px;">
+- SASS <img src="https://img.icons8.com/color/48/000000/sass.png" alt="SASS" style="margin-right: 10px;">
+- JavaScript <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style="margin-right: 10px;">
+- React <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" style="margin-right: 10px;">
+- TypeScript <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" style="margin-right: 10px;">
 
 
 ¡Ahí lo tienes! Si necesitas más ayuda, ¡házmelo saber!
