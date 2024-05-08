@@ -1,55 +1,20 @@
-# About Me
+# ¡Hola! 🚀
 
-<h1 align="center">Hello! I'm Lucas Santino Steckler</h1>
-<h3 align="center">I'm a frontend developer!</h3>
+¡Hola! Soy Lucas Santino. Me apasiona el mundo de la programación y el desarrollo de software, especialmente en el ámbito del desarrollo web. Siempre estoy buscando mejorar mis habilidades y mantenerme al día con las últimas tendencias en tecnología.
 
-<p align="left"></p>
+Además de mi interés por la codificación, me fascina el ecosistema dinámico de la tecnología de la información y la innovación en startups. Mi objetivo es formar parte de este mundo colaborando en proyectos que tengan un impacto significativo en la vida de las personas.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-      alt="sass"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
+Con conocimientos en:
 
+- HTML ![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/240px-HTML5_logo_and_wordmark.svg.png)
+- CSS ![CSS](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/240px-CSS3_logo_and_wordmark.svg.png)
+- Bootstrap ![Bootstrap](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/240px-Bootstrap_logo.svg.png)
+- Tailwind CSS ![Tailwind CSS](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Tailwind_CSS_logo.svg/240px-Tailwind_CSS_logo.svg.png)
+- SASS ![SASS](https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png)
+- JavaScript ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/240px-Unofficial_JavaScript_logo_2.svg.png)
+- React ![React](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/240px-React-icon.svg.png)
+- TypeScript ![TypeScript](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/240px-Typescript_logo_2020.svg.png)
+
+Estoy preparado para enfrentar desafíos y encontrar las mejores soluciones.
+
+Saludos cordiales.
