@@ -6,6 +6,24 @@ Además de mi interés por la codificación, me fascina el ecosistema dinámico 
 
 Con conocimientos en las siguientes tecnologías:
 
-![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css.png) ![SASS](https://img.icons8.com/color/48/000000/sass.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![React](https://img.icons8.com/color/48/000000/react-native.png) ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
+<div style="display: flex; align-items: center;">
+    <p>HTML</p>
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" style="margin-right: 10px;">
+    <p>CSS</p>
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" style="margin-right: 10px;">
+    <p>Bootstrap</p>
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" style="margin-right: 10px;">
+    <p>Tailwind CSS</p>
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" style="margin-right: 10px;">
+    <p>SASS</p>
+    <img src="https://img.icons8.com/color/48/000000/sass.png" alt="SASS" style="margin-right: 10px;">
+    <p>JavaScript</p>
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style="margin-right: 10px;">
+    <p>React</p>
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" style="margin-right: 10px;">
+    <p>TypeScript</p>
+    <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" style="margin-right: 10px;">
+</div>
 
+¡Ahí lo tienes! Si necesitas más ayuda, ¡házmelo saber!
 Saludos cordiales!  
