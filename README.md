@@ -9,7 +9,7 @@ Con conocimientos en las siguientes tecnologías:
 - HTML <img src="https://img.icons8.com/color/24/000000/html-5.png" alt="HTML" style="margin-right: 10px;">
 - CSS <img src="https://img.icons8.com/color/24/000000/css3.png" alt="CSS" style="margin-right: 10px;">
 - Bootstrap <img src="https://img.icons8.com/color/24/000000/bootstrap.png" alt="Bootstrap" style="margin-right: 10px;">
-- Tailwind CSS <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" style="margin-right: 10px;">
+- Tailwind CSS <img src="https://img.icons8.com/color/24/000000/tailwind-css.png" alt="Tailwind CSS" style="margin-right: 10px;">
 - SASS <img src="https://img.icons8.com/color/24/000000/sass.png" alt="SASS" style="margin-right: 10px;">
 - JavaScript <img src="https://img.icons8.com/color/24/000000/javascript.png" alt="JavaScript" style="margin-right: 10px;">
 - React <img src="https://img.icons8.com/color/24/000000/react-native.png" alt="React" style="margin-right: 10px;">
