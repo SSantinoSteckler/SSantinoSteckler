@@ -6,17 +6,6 @@ Además de mi interés por la codificación, me fascina el ecosistema dinámico 
 
 Con conocimientos en las siguientes tecnologías:
 
-- HTML <img src="https://img.icons8.com/color/24/000000/html-5.png" alt="HTML" style="vertical-align: middle; margin-right: 10px;">
-- CSS <img src="https://img.icons8.com/color/24/000000/css3.png" alt="CSS" style="vertical-align: middle; margin-right: 10px;">
-- Bootstrap <img src="https://img.icons8.com/color/24/000000/bootstrap.png" alt="Bootstrap" style="vertical-align: middle; margin-right: 10px;">
-- Tailwind CSS <img src="https://img.icons8.com/color/24/000000/tailwind-css.png" alt="Tailwind CSS" style="vertical-align: middle; margin-right: 10px;">
-- SASS <img src="https://img.icons8.com/color/24/000000/sass.png" alt="SASS" style="vertical-align: middle; margin-right: 10px;">
-- JavaScript <img src="https://img.icons8.com/color/24/000000/javascript.png" alt="JavaScript" style="vertical-align: middle; margin-right: 10px;">
-- React <img src="https://img.icons8.com/color/24/000000/react-native.png" alt="React" style="vertical-align: middle; margin-right: 10px;">
-- TypeScript <img src="https://img.icons8.com/color/24/000000/typescript.png" alt="TypeScript" style="vertical-align: middle; margin-right: 10px;">
+![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) ![Tailwind CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg) ![SASS](https://img.icons8.com/color/48/000000/sass.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![React](https://img.icons8.com/color/48/000000/react-native.png) ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
 
-
-
-
-¡Ahí lo tienes! Si necesitas más ayuda, ¡házmelo saber!
-Saludos cordiales!  
+Saludos cordiales!
