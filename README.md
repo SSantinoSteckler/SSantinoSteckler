@@ -1,11 +1,10 @@
-# Lucas Santino
+ ```plaintext
 const greet = (name) => {
   return `Hola, ${name}! Bienvenido a mi perfil de GitHub.`;
 }
 
 console.log(greet('Lucas Santino'));
 
- ```plaintext
 Constantemente me esfuerzo por mejorar mis habilidades y mantenerme al día con las últimas
 tendencias tecnológicas.
 Además de mi interés por el desarollo de software, me fascina el
