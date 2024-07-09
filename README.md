@@ -20,5 +20,5 @@ ecosistema dinámico de la tecnología de la información y la innovación en la
 🖥️- Git
 🖥️- GitHub
 
-```plaintext
-![carbon](https://github.com/SSantinoSteckler/SSantinoSteckler/assets/142850848/6acabb9e-38e5-4bb5-8c9c-85cad638b3ec)
+// Definición de función greet
+![Código JavaScript](https://github.com/tu_usuario/tu_repositorio/ruta/a/la/imagen.jpg)
