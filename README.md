@@ -1,5 +1,6 @@
 # Lucas Santino
 
+```plaintext
 Soy Lucas Santino.  
 Me apasiona el mundo de la programación y el desarrollo de software,  
 especialmente en el campo del desarrollo web.  
