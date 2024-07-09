@@ -1,3 +1,12 @@
+// # Lucas Santino
+
+ ```plaintext
+ Constantemente me esfuerzo por mejorar mis habilidades y mantenerme al día con las últimas tendencias tecnológicas.
+ Además de mi interés por el desarollo de software, me fascina el ecosistema dinámico de la tecnología de la información y la innovación en las startups.
+Mi objetivo es formar parte de este mundo colaborando en proyectos que tengan foco en satisfacer necesidades en la vida de las personas.
+ Estoy preparado para enfrentar desafíos y encontrar las mejores soluciones.
+
+
 - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 - ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
