@@ -1,4 +1,5 @@
- ```plaintext
+# Lucas Santino
+````markdown
 Constantemente me esfuerzo por mejorar mis habilidades y mantenerme al día con las últimas
 tendencias tecnológicas.
 Además de mi interés por el desarollo de software, me fascina el
@@ -19,14 +20,10 @@ ecosistema dinámico de la tecnología de la información y la innovación en la
 🖥️- Git
 🖥️- GitHub
 
-```html
-<pre>
-<span style="color: green">// Definición de función greet</span>
-<span style="color: blue;">const</span> greet = <span style="color: blue;">(</span>name<span style="color: blue;">)</span> => <span style="color: blue;">{</span>
-  <span style="color: green;">return</span> <span style="color: blue;">`Hola, ${name}! Bienvenido a mi perfil de GitHub.`</span><span style="color: blue;">;</span>
-<span style="color: blue;">}</span><span style="color: blue;">;</span>
+// Definición de función greet
+const greet = (name) => {
+  return `Hola, ${name}! Bienvenido a mi perfil de GitHub.`;
+}
 
-<span style="color: green;">// Llamada a la función greet</span>
-console<span style="color: blue;">.</span>log<span style="color: blue;">(</span>greet<span style="color: blue;">(</span><span style="color: blue;">'Lucas Santino'</span><span style="color: blue;">)</span><span style="color: blue;">)</span><span style="color: blue;">;</span>
-</pre>
-
+// Llamada a la función greet
+console.log(greet('Lucas Santino'));
