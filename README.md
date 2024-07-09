@@ -21,9 +21,4 @@ ecosistema dinámico de la tecnología de la información y la innovación en la
 🖥️- GitHub
 
 // Definición de función greet
-const greet = (name) => {
-  return `Hola, ${name}! Bienvenido a mi perfil de GitHub.`;
-}
-
-// Llamada a la función greet
-console.log(greet('Lucas Santino'));
+![carbon](https://github.com/SSantinoSteckler/SSantinoSteckler/assets/142850848/6acabb9e-38e5-4bb5-8c9c-85cad638b3ec)
