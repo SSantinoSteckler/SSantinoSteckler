@@ -16,3 +16,6 @@
 🖥️- JavaScript
 🖥️- TypeScript
 🖥️- React
+🖥️- Git
+🖥️- GitHub
+
