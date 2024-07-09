@@ -10,6 +10,7 @@ ecosistema dinámico de la tecnología de la información y la innovación en la
  y encontrar las mejores soluciones.
 
 🖥️- HTML
+
 🖥️- CSS
 🖥️- Bootstrap
 🖥️- SASS
@@ -21,4 +22,4 @@ ecosistema dinámico de la tecnología de la información y la innovación en la
 🖥️- GitHub
 
 // Definición de función greet
-![Código JavaScript](https://github.com/tu_usuario/tu_repositorio/ruta/a/la/imagen.jpg)
+![carbon](https://github.com/SSantinoSteckler/SSantinoSteckler/assets/142850848/891fa580-7ac4-49a6-a9eb-87c5398b7451)
