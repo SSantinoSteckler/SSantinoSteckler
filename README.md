@@ -1,2 +1,2 @@
 
-![Carbon Generated Image](def.png)
+![Carbon Generated Image](rojo.png)
