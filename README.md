@@ -1,23 +1,9 @@
-# Bienvenido a mi Repositorio
+# Bienvenido a mi perfil de GitHub
 
-¡Hola! Soy Lucas Santino y este es mi repositorio de código. Aquí encontrarás proyectos y ejemplos de mi trabajo en desarrollo de software, especialmente enfocado en aplicaciones web utilizando tecnologías modernas como React y TypeScript.
+![Carbon Generated Image](https://raw.githubusercontent.com/SSantinoSteckler/SSantinoSteckler/main/assets/142850848/3835850c-c8ce-435b-a4f5-2ebfb05e5856.png)
 
-## Proyectos Destacados
+¡Hola! Soy Lucas Santino, apasionado por la programación y el desarrollo de software. Aquí encontrarás proyectos interesantes y aprendizajes compartidos. ¡Explora y disfruta!
 
-- **Ecommerce App**: Una aplicación de ecommerce desarrollada en React, con funcionalidades avanzadas como filtros de búsqueda y categorización de productos.
-
-- **Dashboard Interactivo**: Un dashboard interactivo diseñado con React y D3.js para visualización de datos.
-
-## Tecnologías Utilizadas
-
-- Frontend: HTML, CSS, JavaScript, TypeScript, React
-- Herramientas: Git, GitHub
-- Otros: SASS, Tailwind CSS (opcional dependiendo de tu uso)
-
-## Instalación
-
-1. Clona este repositorio.
-2. Instala las dependencias usando npm:
-
-   ```bash
-   npm install
+## Contacto
+- LinkedIn: [Lucas Santino](https://www.linkedin.com/in/lucassantino/)
+- Twitter: [@LucasSantinoDev](https://twitter.com/LucasSantinoDev)
