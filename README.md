@@ -1,4 +1,4 @@
-# ¡Hola! 🚀
+
 
 Soy Lucas Santino. Me apasiona el mundo de la programación y el desarrollo de software, especialmente en el campo del desarrollo web. Constantemente me esfuerzo por mejorar mis habilidades y mantenerme al día con las últimas tendencias tecnológicas.
 
