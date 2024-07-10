@@ -1,1 +1,1 @@
-![Carbon Generated Image](rojo.png)
+![Carbon Generated Image](definitive.png)
