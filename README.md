@@ -1,1 +1,1 @@
-![Carbon Generated Image](skills.png)
+![Carbon Generated Image](profile.png)
