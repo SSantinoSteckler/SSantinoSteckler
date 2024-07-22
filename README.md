@@ -1,1 +1,1 @@
-![Carbon Generated Image](carbon (4).png)
+![Carbon Generated Image](carbon(4).png)
