@@ -1,1 +1,1 @@
-![Carbon Generated Image](profile.png)
+![Carbon Generated Image](log.png)
