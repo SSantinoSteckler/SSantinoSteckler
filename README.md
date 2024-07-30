@@ -9,7 +9,7 @@ console.log(me);
 ```
 ```json
 {
-  "aboutMe":"Construyo software con foco en solucionar necesidades en la vida humana.",
+  "aboutMe": "Construyo software con foco en solucionar necesidades en la vida humana.",
   "languages": [
     "HTML",
     "CSS",
