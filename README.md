@@ -6,13 +6,11 @@
 };
 
 console.log(me);
-  ...
 ```
 
 ```json
 {
-  "aboutMe":"Trabajo en contruir software con foco en solucionar
-   y satisfacer necesidades en la vida de las personas."
+  "aboutMe":"Trabajo en contruir software con foco en solucionary satisfacer necesidades en la vida de las personas."
  "languages": [
     "HTML",
     "CSS",
