@@ -1,4 +1,3 @@
-*A little more about me...* 📝
 ```
  const me = {
   name: 'Lucas Santino Steckler',
@@ -12,7 +11,7 @@ console.log(me);
 
 ```json
 {
-  "aboutMe": "Trabajo en contruir software con foco en solucionar
+  "aboutMe":"Trabajo en contruir software con foco en solucionar
    y satisfacer necesidades en la vida de las personas."
  "languages": [
     "HTML",
