@@ -10,8 +10,8 @@ console.log(me);
 
 ```json
 {
-  "aboutMe":"Trabajo en contruir software con foco en solucionary satisfacer necesidades en la vida de las personas."
- "languages": [
+  "aboutMe": "Trabajo en construir software con foco en solucionar\n\t y satisfacer necesidades en la vida de las personas.",
+  "languages": [
     "HTML",
     "CSS",
     "JavaScript",
