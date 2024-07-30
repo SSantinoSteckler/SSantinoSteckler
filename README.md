@@ -1,25 +1,22 @@
-
 ```json
 {
   "aboutMe": "College Technical Degree Student in Software Development",
-  "code": [
-    "Java",
-    "JavaScript",
+  "languages": [
     "HTML",
     "CSS",
-    "SQL"
+    "JavaScript",
+    "TypeScript"
   ],
   "tools": [
-    "Spring Boot",
-    "Spring Cloud",
-    "MySQL",
-    "JPA",
-    "Postman",
-    "Docker"
+    "Bootstrap",
+    "TailwindCSS",
+    "SASS",
+    "Git",
+    "GitHub",
+    "Figma"
   ],
-  "architecture": [
-    "Microservices",
-    "Object-oriented design",
-    "Design patterns"
+  "Frameworks": [
+    "React",
+    "Next.js",
   ]
 }
