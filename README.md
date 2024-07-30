@@ -1,22 +1,23 @@
 ```json
 {
-  "aboutMe": "College Technical Degree Student in Software Development",
-  "languages": [
+  "aboutMe": "Trabajo en contruir software con foco en solucionar
+   y satisfacer necesidades en la vida de las personas.",
+ "languages": [
     "HTML",
     "CSS",
     "JavaScript",
     "TypeScript"
   ],
+  "frameworks": [
+    "React",
+    "Next.js"
+  ],
   "tools": [
     "Bootstrap",
-    "TailwindCSS",
+    "Tailwind CSS",
     "SASS",
     "Git",
     "GitHub",
     "Figma"
-  ],
-  "Frameworks": [
-    "React",
-    "Next.js",
   ]
 }
