@@ -5,7 +5,6 @@ const me = {
   occupation: 'Software Developer',
   interests: ['Web Development', 'Startups', 'Innovation']
 };
-
 console.log(me);
 ```
 ```json
