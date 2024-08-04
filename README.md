@@ -6,7 +6,6 @@ const me = {
   interests: ['Web Development', 'Startups', 'Innovation']
 };
 
-console.log(me);
 ```
 ```json
 {
