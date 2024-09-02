@@ -3,7 +3,7 @@
 const me = {
   name: 'Lucas Santino Steckler',
   occupation: 'Software Developer',
-  interests: ['Web Development', 'Startups', 'Innovation']
+  interests: ['Web Development', 'Innovation']
 };
 ```
 ```json
