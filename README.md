@@ -13,10 +13,13 @@ const me = {
     "CSS",
     "JavaScript",
     "TypeScript"
+    "C++"
   ],
   "frameworks": [
     "React",
     "Next.js"
+    "Node.js"
+    "Astro"
   ],
   "tools": [
     "Bootstrap",
