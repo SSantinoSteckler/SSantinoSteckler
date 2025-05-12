@@ -4,13 +4,13 @@
     "HTML",
     "CSS",
     "JavaScript",
-    "TypeScript"
+    "TypeScript",
     "C++"
   ],
   "frameworks": [
     "React",
-    "Next.js"
-    "Node.js"
+    "Next.js",
+    "Node.js",
     "Astro"
   ],
   "tools": [
