@@ -1,9 +1,3 @@
-# Hello World👋
-```
-const me = {
-  name: 'Lucas Santino Steckler',
-  occupation: 'Software Developer'
-};
 ```
 ```json
 {
