@@ -7,18 +7,27 @@
     "TypeScript",
     "C++"
   ],
-  "frameworks": [
+  "frontend": [
     "React",
     "Next.js",
+    "Astro",
+    "Tailwind CSS",
+    "Bootstrap",
+    "SASS"
+  ],
+  "backend": [
     "Node.js",
-    "Astro"
+    "Express"
+  ],
+  "databases": [
+    "MongoDB",
+    "PostgreSQL",
+    "Prisma"
   ],
   "tools": [
-    "Bootstrap",
-    "Tailwind CSS",
-    "SASS",
     "Git",
     "GitHub",
-    "Figma"
+    "Figma",
+    "Docker"
   ]
 }
