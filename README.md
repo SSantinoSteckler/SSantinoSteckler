@@ -22,7 +22,8 @@
   "databases": [
     "MongoDB",
     "PostgreSQL",
-    "Prisma"
+    "Prisma",
+    "Mongoose"
   ],
   "tools": [
     "Git",
